@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 
@@ -1701,7 +1701,7 @@ footer {
         grid-template-columns: 1fr 1fr;
     }
 
-=======
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 
@@ -3404,5 +3404,5 @@ footer {
         grid-template-columns: 1fr 1fr;
     }
 
->>>>>>> 03c29e6e680d062bc9a797f614b90af99ab7ad3a
+}
 }
