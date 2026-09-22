@@ -1,4 +1,3 @@
-
 // =============================
 // MOBILE NAVIGATION
 // =============================
@@ -195,3 +194,5 @@ document.querySelectorAll("nav a").forEach(link => {
         }
 
     });
+
+});
